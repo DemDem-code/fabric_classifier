@@ -1,4 +1,4 @@
-tensorflow==2.13.1
+tensorflow-cpu
 streamlit
 numpy
 pillow
